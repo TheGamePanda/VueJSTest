@@ -9,5 +9,5 @@ export default {
 
 <!--
     IGDB info:
-        API key - f8cad9efb9319dca70eaac033af3922d
+        API key - f8xxxxxxxxxxxxxxxxxxxxxxxxxxxx2d
 -->

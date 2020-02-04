@@ -28,7 +28,7 @@
         <h1>LaunchZone</h1>
         <p>Placeholder for contents to be loaded regarding new game releases.</p>
         <ul>
-            <li>API key - <b>f8cad9efb9319dca70eaac033af3922d</b></li>
+            <li>API key - <b>f8xxxxxxxxxxxxxxxxxxxxxxxxxxxx2d</b></li>
             <p>To be used when making requests from the IGDB database, see <a target="_blank" href="https://api-docs.igdb.com/#about">IGDB link</a> above for more.</p>
         </ul>
     </div>
