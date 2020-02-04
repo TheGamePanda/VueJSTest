@@ -52,6 +52,7 @@
         position: relative;
         min-height:750px;
         border-radius:10px;
+        /* :) */
     }
     
     @media only screen and (max-width:920px){
