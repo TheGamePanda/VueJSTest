@@ -1,6 +1,6 @@
 # Read Me
 
-In order for this application to be used (and for VueJS to be used in general), [Node.js](https://nodejs.org/en/) and [NPM](https://nodejs.org/en/) will need to be installed on your system.
+In order for this application to be used (and for VueJS to be used in general), [Node.js](https://nodejs.org/en/) and [NPM](https://www.npmjs.com/) will need to be installed on your system.
 
 Once these are installed through the use of the NPM command line or using a compliant software such as "VisualStudio - Code" the VueJS application can be launched.
 
