@@ -1,4 +1,4 @@
-#Read Me
+# Read Me
 
 In order for this application to be used (and for VueJS to be used in general), [Node.js](https://nodejs.org/en/) and [NPM](https://nodejs.org/en/) will need to be installed on your system.
 
